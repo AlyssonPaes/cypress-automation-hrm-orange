@@ -3,8 +3,7 @@
     usernameField: "[name='username']",
     passwordField: "[name='password']",
     buttonField: ".oxd-button",
-    dashboardGrid: ".orangehrm-dashboard-grid",
-    wrongCredentialAlert: ".oxd-alert",
+    wrongCredentialAlert: ".oxd-alert"
   }
 
   export const userInputSucess ={
